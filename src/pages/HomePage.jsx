@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
 import "../App.css";
-import heroVideo from "../assets/herovideo.mp4";
+import heroVideo from "../assets/heroVideo.mp4";
 
 function HomePage() {
   const [darkMode, setDarkMode] = useState(false);
