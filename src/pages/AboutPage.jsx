@@ -2,7 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import "./AboutPage.css";
 // IMPORT the video so Vite knows to include it in the build
-import aboutVideo from "../assets/about.mp4"; 
+import aboutVideo from "../assets/About.mp4"; 
 
 function AboutPage() {
   return (
