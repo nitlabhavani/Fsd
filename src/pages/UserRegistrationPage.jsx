@@ -57,8 +57,7 @@ const UserRegistrationPage = () => {
                 <select name="Role" value={formData.Role} onChange={handleChange} required>
                   <option value="">Select Your Role</option>
                   <option value="Admin">Admin</option>
-                  <option value="Customer">Customer</option>
-                  <option value="Freelancer">Freelance</option>
+                  <option value="Customer">User</option>
 
                 </select>
               </div>

@@ -1,4 +1,4 @@
-/* Matching Dark Animated Background */
+
 .booking-page {
   margin: 0;
   background-image: linear-gradient(rgba(10, 25, 41, 0.9), rgba(10, 25, 41, 0.9)), 
@@ -34,7 +34,6 @@
   gap: 30px;
 }
 
-/* Glass Panels */
 .payment-section, .summary-card {
   background: rgba(255, 255, 255, 0.05);
   backdrop-filter: blur(20px);
